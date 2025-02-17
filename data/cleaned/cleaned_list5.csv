@@ -1,0 +1,424 @@
+"rating","total_spent_by_client","country","payment_verified","job_url_main","job_title","job_description","time_posted","hourly_rate","skill_level","estimated_time","estimated_budget","tags","golden_score"
+5.0,300000.0,"Germany","Payment verified","https://www.upwork.com/jobs/Machine-Learning-Engineer-for-Campaign-Optimization_~021887206357076810273/?referrer_url_path=find_work_home","Machine Learning Engineer for Ad Campaign Optimization","We are a large-scale online advertising business, spending high ad budgets across Facebook, TikTok, and other platforms. 
+
+We want to automate our entire campaign analysis and optimization process using machine learning and data-driven decision-making. The goal is to replace manual media buying decisions with an AI-driven system that continuously monitors performance, adjusts bids, and optimizes scaling and stopping rules.
+
+We are looking for a Machine Learning Engineer with a strong background in data analysis, predictive modeling, and automated decision-making for ad campaigns.
+
+Responsibilities:
+	•	Develop machine learning models to analyze campaign performance and detect profitable patterns.
+	•	Build predictive models for CPC, CPA, and ROI trends to guide scaling/stopping decisions.
+	•	Automate budget allocation and bid adjustments based on real-time performance.
+	•	Implement anomaly detection to flag fraud traffic or sudden performance drops.
+	•	Work with Facebook, TikTok, PIs to fetch campaign performance data.
+	•	Continuously improve campaign automation rules based on new insights.
+
+Requirements:
+	•	Strong experience in Machine Learning & Data Science (Python, TensorFlow/PyTorch, Scikit-learn).
+	•	Expertise in predictive modeling, time-series forecasting (LSTM, ARIMA, Prophet).
+	•	Experience with real-time data analysis (BigQuery, Snowflake, Apache Kafka, Redshift).
+	•	Familiarity with media buying and ad campaign metrics (EPC, CPA, CTR, ROI).
+	•	Ability to integrate machine learning models with ad platform APIs.
+	•	Prior experience in performance marketing, ad tech, or programmatic media buying is a plus.
+
+Bonus Skills:
+	•	Experience with Reinforcement Learning (Multi-Armed Bandits, Q-Learning).
+	•	Knowledge of automated decision-making for ad optimization.
+	•	Familiarity with big data pipelines and cloud computing (AWS, GCP, Azure).","yesterday",0,"Expert","Est. Time:",0,"['Python', 'Data Science', 'Google Analytics', 'Data Analysis', 'TensorFlow']",70.0
+5.0,200000.0,"United States","Payment verified","https://www.upwork.com/jobs/Consultant-Developer-for-Vehicle-Buying-Business-Exploring-Integration-Possibilities_~021886914927133482723/?referrer_url_path=find_work_home","AI Consultant/Developer for Vehicle Buying Business – Exploring AI Integration Possibilities","I own a car-buying business that purchases vehicles from the public, and I’m exploring how AI can improve and automate parts of this process.
+
+I am looking for an AI consultant/developer who can:
+-Educate me on AI-powered solutions that could benefit my business.
+-Assess my business model and recommend AI applications.
+-Suggest third-party AI tools or custom development options.
+
+I am open to ideas, but some possibilities I want to explore include:
+-Automated Vehicle Appraisal – AI analyzing customer-submitted car details & generating purchase offers.
+-Automating our Billing process via AI (we have automation for this, but not sure if AI could make it even better)
+-Sales in the sense of following up with customers via Email/SMS (Again, already have automation for this, but curious what AI could offer)
+-AI-Powered Pricing Model – Using market data to determine competitive offers and/or utilize our internal data
+-Computer Vision for Damage Detection – AI analyzing vehicle photos for wear, dents, or accidents.
+-AI Chatbot Integration – Automating customer interactions & answering common questions.
+-CRM Automation – Streamlining my sales & offer process through AI-driven workflows.
+
+I am looking for someone who can break down these possibilities and recommend the best approach. If it sounds like AI can do the things I want, let's move forward on working together.","yesterday",0,"Intermediate","Est. Budget:",0,"['RESTful API', 'AI Development', 'Sales', 'Machine Learning', 'Zoho CRM']",53.33
+5.0,100000.0,"China","Payment verified","https://www.upwork.com/jobs/Powered-Document-Processing-and-Query-System_~021887143302221032762/?referrer_url_path=find_work_home","AI-Powered Document Processing and Query System","The AI-Powered Document Processing and Query System is designed to enable four user roles—Administrators, Experts (SMEs), General Users (GUs), and Associates—to manage, process, and retrieve documents and images efficiently. The system integrates advanced technologies such as Optical Character Recognition (OCR), vector databases for semantic retrieval, and Large Language Models (LLMs) for query resolution. The system supports test-specific workflows.
+The solution includes role-based dashboards, secure document management, and advanced query capabilities.","yesterday",0,"Expert","Est. Budget:",0,"['Artificial Intelligence', 'Machine Learning']",43.33
+5.0,100000.0,"Canada","Payment verified","https://www.upwork.com/jobs/Seeking-Data-Scientist-for-POV-Development_~021886884045928554211/?referrer_url_path=find_work_home","Seeking Data Scientist for POV Development","We’re looking for an experienced Data Scientist to help us analyze a dataset and provide insights based on patterns and trends. This project requires reviewing materials shared after MNDA and developing a Point of View (POV) around the findings.
+
+Due to the confidential nature of this project, all shortlisted candidates must sign a Mutual Non-Disclosure Agreement (MNDA) before receiving full project details.
+
+Key Responsibilities:
+
+- Review materials provided after signing MNDA and develop a POV.
+- Analyze a dataset using your preferred data analysis tools.
+- Identify patterns, trends, and key insights.
+- Provide a concise summary of findings.","yesterday",0,"Intermediate","Est. Time:",0,"['Data Analysis', 'Data Science']",40.0
+5.0,30000.0,"Italy","Payment verified","https://www.upwork.com/jobs/Expert-Researcher-for-Product-Documentation_~021887345597382654639/?referrer_url_path=find_work_home","AI Expert/Researcher for Product Documentation","We are looking for an AI Expert or Researcher to document the evolution of an AI product and create a comprehensive production schedule. Bonus points if you can host discussions on Twitter Spaces.
+
+Responsibilities:
+- Write detailed documentation on AI product development.
+Build a structured production timeline.
+- Engage with the community via Twitter Spaces to discuss progress.
+Requirements:
+- Expertise in AI research and technical writing.
+- Strong communication skills for public engagement.
+- Experience documenting complex systems is a plus.
+
+Please include samples of previous technical documents or public engagements in your application.","3 hours ago",0,"Expert","Est. Time:",0,"['Content Writing', 'Data Analysis', 'AI App Development', 'Technical Writing', 'Blockchain AI']",34.0
+4.6,60000.0,"United States","Payment verified","https://www.upwork.com/jobs/Automation-Expert-Needed-for-Make-com-Integration_~021887170490366588062/?referrer_url_path=find_work_home","AI Automation Expert Needed for Make.com Integration","We’re looking for a part-time automation expert. 10-20 hours per week.
+
+Set Up Automated Processes: Identify tasks that slow us down and create workflows to handle them automatically.
+
+Integrate AI Solutions: Use ChatGPT, Make.com, and other AI tools to streamline communication, data processing, and content generation.
+
+Optimize Existing Systems: Look for new and creative ways to enhance our current setup, making sure everything runs without a hitch.
+
+Collaborate & Train: Work closely with our team to train them on best practices and share tips for using new automation tools effectively.
+
+Stay Ahead of the Curve: Keep an eye on the latest developments in AI and automation to help us stay innovative and agile.
+
+We are seeking an experienced AI automation expert with a strong background in utilizing Make.com for automating workflows and processes. The ideal candidate will help streamline our operations by creating effective automation solutions tailored to our needs. You should be proficient in connecting various applications and services and optimizing them for peak performance. If you have a passion for improving efficiency through technology, we want to hear from you!","yesterday",0,"Intermediate","Est. Time:",0,"['Make.com', 'AI Builder', 'API Integration', 'Dashboard', 'Data Scraping', 'Business Process Automation', 'Beautiful Soup', 'Google Sheets']",33.47
+5.0,30000.0,"United Kingdom","Payment verified","https://www.upwork.com/jobs/Data-Science-Consultant_~021887350246997308657/?referrer_url_path=find_work_home","Data Science Consultant","Our data science consulting team is looking for a part-time contractor with a strong background in pipeline development, predictive modeling, and machine learning. The ideal candidate will have experience with GitHub for version control and data visualization tools to effectively communicate insights. Your role will involve developing and implementing models that enhance our customers' data processing pipelines and provide actionable insights.","2 hours ago",0,"Intermediate","Est. Budget:",0,"['Machine Learning', 'Statistics', 'Big Data', 'Data Mining', 'Data Science', 'R', 'Python', 'Data Analysis']",30.67
+4.9,2000.0,"Canada","Payment verified","https://www.upwork.com/jobs/Expert-Needed-for-GenAI-and-RAG-LongChain-Training-Sessions_~021886896669772766947/?referrer_url_path=find_work_home","AI/ML Expert Needed for GenAI and RAG LongChain Training Sessions","We are seeking an experienced AI/ML expert to conduct a series of training sessions focused on generative AI (GenAI), retrieval-augmented generation (RAG), and LongChain concepts. The ideal candidate should be able to simplify complex topics and provide practical insights that will enhance our understanding. Sessions can be tailored to our specific needs and should include hands-on examples. If you have a passion for teaching and a deep understanding of these AI/ML topics, we would love to hear from you!","yesterday",0,"Expert","Est. Time:",0,"['Machine Learning', 'Python', 'Artificial Intelligence', 'TensorFlow', 'Deep Learning']",29.97
+4.5,9000.0,"USA","Payment verified","https://www.upwork.com/jobs/Full-Stack-Developer-for-Powered-Lead-Management-System-with-Multi-Channel-Communication_~021887372409592468441/?referrer_url_path=find_work_home","Full-Stack Developer for AI-Powered 24/7 Lead Management System with Multi-Channel Communication","Full-Stack Developer for AI-Powered Lead Engagement & Communication Platform
+
+Project Overview:
+We are developing Drew’s 24/7 Lead Management System with Multi-Channel Communication, a real-time, AI-driven solution designed to engage leads across SMS, email, phone calls, and in-app notifications. This system enables seamless lead capture, qualification, follow-up, and nurturing—all without requiring manual intervention from agents.
+The platform will offer free/demo usage options with built-in lead integrations for onboarding, alongside support for paid CRM and lead generation services like Zillow, Realtor.com, Lofty (Chime), Compass-supported CRMs, and others. This ensures flexibility for users to experience Drew’s core capabilities immediately upon sign-up while scaling seamlessly with premium integrations.
+
+Deliverables and Detailed Milestones:
+
+Deliverable 1: Core 24/7 Multi-Channel Lead Management System (Free Demo Access Built-In)
+Description: Build a lead management core that enables 24/7 automated lead engagement via SMS, email, in-app messaging, and phone calls. Ensure the system is operational with free/demo leads during onboarding to provide users with immediate value.
+Key Features:
+Free/demo lead integration from available partners to allow users to experience lead engagement upon sign-up.
+Lead capture from multiple channels, including online forms and external lead platforms.
+24/7 engagement via SMS, email, calls, and in-app notifications.
+Auto-response and dynamic conversation flows based on lead queries and engagement.
+Integrations Required:
+Free Lead API (TBD): Provide sample or demo leads as part of onboarding.
+Realty.com API, Zillow API, Lofty (Chime) API: For premium lead integration.
+Twilio API: For SMS, voice, and automated call handling.
+SMTP/Email API (e.g., SendGrid): For automated email follow-ups and notifications.
+Google Analytics API: For tracking lead engagement on the website.
+Outcome: Users will have a fully functional multi-channel lead engagement experience immediately upon onboarding and the ability to connect paid lead sources as needed.
+
+Deliverable 2: AI-Powered Dynamic Conversation Engine
+Description: Develop an AI-powered engine that dynamically adapts communication strategies based on lead behavior, urgency, and interaction history.
+Key Features:
+Dynamic conversation flows based on lead responses and engagement patterns.
+Lead qualification through AI-powered natural language processing (NLP).
+Sentiment detection to prioritize high-interest leads for immediate follow-up.
+Auto-escalation for leads requiring manual intervention.
+Integrations Required:
+OpenAI API / Custom NLP Models: For analyzing lead queries and generating personalized responses.
+CRM Integrations (kvCORE API, Follow Up Boss API, Lofty API): For real-time lead updates and qualification.
+Twilio API: For handling phone-based interactions.
+Google Cloud Speech-to-Text or AWS Transcribe: For converting voice interactions to text.
+Outcome: Agents can rely on AI to qualify leads and generate dynamic responses that adapt to individual interactions, ensuring a seamless lead nurturing experience.
+
+Deliverable 3: Free and Premium Lead Source Integration
+Description: Provide dual support for both free/demo leads and premium lead integrations. This enables users to onboard with demo leads while offering scalability for premium services.
+Key Features:
+Free/demo lead sources available for initial sign-up.
+Premium lead source integrations for paid users, supporting major platforms and brokerage-specific CRMs.
+Real-time lead data synchronization with CRM systems.
+Intelligent lead routing based on geography, priority, and agent availability.
+Integrations Required:
+Free Lead API (TBD): To provide free/demo lead options during onboarding.
+Realty.com API: For additional lead options and data synchronization.
+Zillow API, Realtor.com API: Integration for users with premium lead services.
+Lofty (Chime), Compass-Supported CRMs (kvCORE, Follow Up Boss, etc.): Full lead integration for premium users.
+Outcome: Users experience the flexibility of free lead access while enjoying seamless scaling through premium lead services.
+
+Deliverable 4: Multi-Channel Communication Orchestration with Automation
+Description: Automate follow-up tasks and personalized outreach through multiple communication channels, ensuring leads are engaged promptly and consistently.
+Key Features:
+Automated follow-ups via SMS, email, and calls triggered by lead activity or missed responses.
+Customizable workflows for automated engagement and task assignment.
+Multi-channel follow-up reminders and appointment confirmations.
+Compliance with TCPA and other regulations.
+Integrations Required:
+Twilio API: For SMS, voice calls, and follow-up notifications.
+SMTP/Email APIs: For automated email follow-up sequences.
+Google Calendar API: For scheduling follow-ups and appointments.
+Compliance Module: Custom-built to handle opt-in and opt-out tracking for leads.
+Outcome: Agents can automate their follow-ups and stay compliant, improving efficiency while keeping leads engaged.
+
+Deliverable 5: Centralized Lead Management Dashboard
+Description: Create an intuitive, centralized dashboard where agents can view real-time lead statuses, conversation history, and next-best actions.
+Key Features:
+Visual representation of lead scores, statuses, and communication logs.
+Dynamic filtering of leads by priority, behavior, and engagement status.
+Suggested next steps based on AI analysis of lead interactions.
+Task assignment and performance tracking.
+Integrations Required:
+Google Analytics API: For tracking and visualizing lead engagement.
+Asana API / Trello API: For assigning follow-up tasks and tracking progress.
+CRM Integrations: Sync lead data and updates with CRMs like kvCORE, Follow Up Boss, etc.
+Outcome: Agents gain a comprehensive view of all active leads and their next-best actions, streamlining daily activities.
+
+Deliverable 6: Post-Engagement Reporting and Insights
+Description: Provide detailed analytics and reports on lead engagement, response times, and conversion rates, allowing agents to fine-tune their strategies.
+Key Features:
+Reports on key metrics, such as response times, engagement rates, and conversions.
+Predictive analytics to identify trends and optimize future lead engagement strategies.
+Feedback loop to improve AI models for personalized interactions.
+Integrations Required:
+Google Analytics API: For tracking engagement metrics.
+OpenAI API: For predictive analytics and recommendations.
+CRM Integrations (kvCORE, Follow Up Boss): For syncing report data and feedback loops.
+Outcome: Agents and brokers can review detailed reports, improve decision-making, and continuously optimize their lead engagement processes.
+
+Key Technical Requirements:
+Category
+Integrations
+Lead Data Sources
+Free Lead API (TBD), Realty.com API, Zillow API, Lofty API, Realtor.com
+CRMs
+kvCORE, Follow Up Boss, Lofty (Chime), Compass-supported CRMs
+Analytics
+Google Analytics API, OpenAI API
+Communication
+Twilio API (SMS, calls), SMTP/Email APIs (SendGrid)
+Calendar and Scheduling
+Google Calendar API, Outlook Calendar API, Apple Calendar API
+Speech-to-Text
+Google Cloud Speech-to-Text, AWS Transcribe
+Task Management
+Asana API, Trello API
+Compliance
+Custom compliance module to ensure TCPA, GDPR, and CCPA adherence
+
+
+Skills Required:
+Full-Stack Development: React, Node.js, Next.js
+API Integration Expertise: REST, SOAP, webhooks
+AI/NLP Experience: OpenAI, TensorFlow, or custom NLP models for conversation flows
+CRM Integration: Familiarity with kvCORE, Follow Up Boss, or comparable systems
+Real-Time Data Handling: Event-driven architecture to handle lead updates dynamically
+Compliance Knowledge: Understanding of TCPA, GDPR, and CCPA
+
+Submission Requirements:
+Portfolio: Examples of multi-channel lead management or real-time communication systems.
+Development Plan: Provide a brief overview of how you plan to implement free/demo lead integration and multi-channel communication orchestration.
+Demo Capability: Preference will be given to candidates who can present a demo of a lead management system with CRM integration and multi-channel functionality.
+
+Project Summary:
+This project will transform how agents engage with leads by providing a 24/7 multi-channel communication platform. By integrating free/demo lead access with scalable premium services, Drew ensures that agents can maximize lead engagement and conversions without additional overhead. If you’re experienced in building real-time communication and AI-powered systems, we’d love to work with you!","1 hour ago",0,"Expert","Est. Budget:",0,"['API Development', 'Python', 'JavaScript', 'API', 'Amazon Web Services', 'PHP', 'API Integration', 'Node.js']",29.7
+4.5,9000.0,"USA","Payment verified","https://www.upwork.com/jobs/Full-Stack-Developer-specializing-meeting-tools-customizable-avatars-notes-and-automation_~021887371099577535966/?referrer_url_path=find_work_home","Full-Stack Developer specializing in AI meeting tools, customizable avatars, notes, and automation.","Full-Stack Developer for AI-Powered Meeting Participation with Customizable Avatars, NLP-Based Note-Taking, and Task Automation
+
+Project Overview:
+We are seeking a highly skilled Full-Stack Developer to build Drew’s AI-Powered Meeting Participation System,enhanced with customizable avatars that can be tailored to look and sound like the agent or brokerage representative. Similar to Delphi.ai, this feature will allow users to create personalized avatars that participate in meetings, take notes in real-time, interact with clients, ask dynamic follow-up questions, and generate task workflows and summaries.
+This system will integrate with major meeting platforms like Zoom, Delphi Zoom, Google Meet, and others, as well as key CRMs such as kvCORE, Follow Up Boss, Lofty (Chime), and Realty.com. A free demo version will be available for new users, utilizing free lead integrations or sample lead data.
+Drew’s AI Avatar will actively participate in meetings, visually and audibly representing the agent with real-time speech synthesis and body language customization. This feature will support individual agents, teams, and major brokerages like Compass, eXp Realty, Real Brokerage, and others.
+
+Deliverables and Milestones:
+
+Deliverable 1: AI-Powered Meeting Participation with Customizable Avatars
+Description: Build Drew’s ability to attend and participate in meetings using customizable avatars that mirror the agent’s appearance and voice. The avatar should be able to engage naturally, take cues from conversations, ask follow-up questions, and respond dynamically.
+Key Features:
+Customizable avatars using facial capture, appearance configuration, and voice synthesis.
+Integration with Delphi Zoom or similar APIs for visual participation.
+Dynamic body language and gestures to improve engagement.
+Speech-to-text and context-based conversation guidance.
+Free Version:
+Demo avatars with basic customization and limited meeting participation.
+Integrations:
+Delphi Zoom API – Visual avatar integration for meetings.
+Zoom API – Video participation and data exchange.
+Google Meet API – Audio participation and transcription.
+Eleven Labs API or Resemble AI – Custom voice synthesis to match the agent’s voice.
+Otter.ai API – Transcriptions for meeting notes.
+Free Lead Demo Integration (Realty.com or internal leads) – Sample lead data for testing avatar participation.
+
+Deliverable 2: Real-Time Note-Taking, Meeting Summaries, and Action Items
+Description: Enable Drew to transcribe meetings, generate real-time notes, and automatically create action items and follow-up tasks. The notes will capture important details like client requirements, deadlines, and key takeaways.
+Key Features:
+AI-generated real-time notes with task tracking and key points highlighted.
+Summarization of discussions into structured meeting summaries.
+Dynamic action item generation based on meeting context (e.g., “Schedule a property tour,” or “Send follow-up email with listing details”).
+Option for agents to manually adjust or enhance notes and summaries.
+Free Version:
+Real-time notes and basic action items for demo meetings.
+Integrations:
+Otter.ai API – Real-time transcription and note generation.
+OpenAI API or Hugging Face NLP – Summarization and action item generation.
+CRM Integrations (kvCORE, Follow Up Boss, Lofty) – Sync notes and tasks directly to CRMs.
+Free Lead Demo Integration – Provide test meetings with sample leads.
+
+Deliverable 3: Customizable AI-Driven Follow-Up Workflows and Task Automation
+Description: Implement an AI-powered workflow system that automatically assigns tasks based on meeting outcomes and lead engagement. Users will be able to create custom workflows tailored to specific client interactions.
+Key Features:
+AI-recommended follow-up actions and task prioritization.
+Custom workflow builder for scheduling follow-ups, property tours, or client consultations.
+Dynamic updates to tasks based on lead behavior (e.g., immediate follow-ups for hot leads).
+Free Version:
+Basic task assignment and follow-up generation for demo meetings.
+Integrations:
+Google Calendar, Outlook Calendar, Apple Calendar APIs – Task scheduling and availability detection.
+Trello, Monday.com, Asana APIs – Task management and tracking.
+CRM Integrations: kvCORE, Follow Up Boss, Realty.com, Lofty.
+Free Lead Demo Integration – Task workflows using sample data.
+
+Deliverable 4: Multi-Channel Reminders, Rescheduling, and Follow-Up Messaging
+Description: Build a multi-channel notification and follow-up system that sends reminders before meetings, suggests rescheduling options, and handles post-meeting communications via email, SMS, or calls.
+Key Features:
+Automatic reminders 24 hours and 1 hour before meetings.
+AI-powered rescheduling suggestions based on availability.
+Post-meeting follow-ups via email or SMS with meeting summaries and action items.
+Free Version:
+Limited reminders and follow-up messaging for demo meetings.
+Integrations:
+Twilio API – SMS and call reminders.
+Mailchimp or SMTP API – Email confirmations and follow-ups.
+Calendar APIs (Google, Outlook, Apple) – Scheduling and availability management.
+Compliance Module – Ensure TCPA compliance for communications.
+
+Deliverable 5: Analytics and Agent Performance Dashboard
+Description: Develop a dashboard to provide analytics on meeting participation, follow-up success rates, and agent productivity. The dashboard will track task completion, lead engagement, and meeting outcomes.
+Key Features:
+Participation metrics, including meeting duration, engagement level, and follow-up task success rates.
+Customizable performance reports for team leaders and brokerages.
+Predictive analytics to identify opportunities for improved meeting outcomes.
+Free Version:
+Basic analytics for demo meetings with sample leads.
+Integrations:
+Follow Up Boss, kvCORE, Realty.com, Lofty – Sync performance metrics.
+Google Analytics API – Track lead engagement and follow-up success rates.
+
+Deliverable 6: Free Meeting Participation Demo with Avatars and Custom Follow-Ups
+Description: Provide a free demo experience where users can test AI-powered meeting participation, customizable avatars, and follow-up generation without needing paid accounts.
+Key Features:
+Free demo avatars for meetings.
+Limited real-time notes, task generation, and follow-up workflows.
+Integrations:
+Realty.com, Lofty, or internal leads – Provide sample lead data for demos.
+
+Skills Required:
+Full-Stack Development: React, Node.js, Next.js
+AI/ML Expertise: Customizable avatars, NLP, and conversation modeling
+API Integrations: REST, webhooks, meeting platforms
+Speech-to-Text and Voice Synthesis: Otter.ai, Eleven Labs, Resemble AI
+Compliance Knowledge: TCPA, GDPR, CCPA
+
+Submission Requirements:
+Portfolio: Highlight similar projects in AI, avatars, or meeting participation.
+Development Plan: Provide a detailed approach for building AI avatars, meeting integration, and follow-ups.
+Demo Capability: Applicants providing demos of avatar-based participation will be prioritized.
+
+Project Summary:
+This project will transform meeting participation in real estate, allowing users to leverage AI-powered avatars that look and sound like them, participate in meetings, take notes, and automate follow-ups. By integrating with top CRMs, meeting platforms, and free lead providers, Drew will offer agents and brokerages a comprehensive solution to streamline their workflows and boost productivity.
+Apply today to help us redefine the future of real estate meetings!","1 hour ago",0,"Expert","Est. Budget:",0,"['Python', 'JavaScript', 'API', 'C#', 'React', 'CSS', 'Web Development', 'Node.js']",29.7
+4.1,10000.0,"India","Payment verified","https://www.upwork.com/jobs/Model-Development-for-Workflow-Automation-Transformation_~021887193398161863837/?referrer_url_path=find_work_home","AI Model Development for Workflow Automation Transformation","We are seeking an experienced AI developer to build a model that automates the transformation of workflows from system to another systems. The project will include schema transformation and the implementation of various techniques to ensure seamless integration. The ideal candidate will have a strong understanding of AI methodologies, experience in workflow automation, and the ability to deliver efficient solutions. Please provide examples of your previous work in AI model development and automation systems.","yesterday",0,"Expert","Est. Time:",0,"['Python', 'Artificial Intelligence', 'Machine Learning', 'Natural Language Processing', 'Robotic Process Automation']",28.63
+5.0,10000.0,"United States","Payment verified","https://www.upwork.com/jobs/Specialist-Needed-for-commerce-Brand_~021886850613013929699/?referrer_url_path=find_work_home","AI Specialist Needed for E-commerce Brand","We’re currently looking for an experienced AI Specialist to help us leverage the power of artificial intelligence across various aspects of our business—from content creation to process automation and beyond. As our AI Specialist, you’ll be responsible for designing and implementing AI-driven solutions that enhance our internal processes, content generation, and overall operational efficiency.
+
+Key Responsibilities:
+
+1. Content Generation
+     - Develop and implement AI-based tools to create, curate, and optimize marketing content.
+     - Use generative AI models to produce engaging copy, visuals, and other creative assets.
+2. Data Analysis & Insights
+     - Analyze datasets (customer behavior, marketing metrics) to generate actionable insights and predictive models.
+     - Create dashboards or reports that track AI performance and offer recommendations for continuous improvement.
+3. AI Strategy & Implementation
+     - Stay up to date on the latest AI trends and technologies to ensure the company remains at the forefront of innovation.
+     - Propose, prioritize, and execute new AI-related projects in line with the company’s strategic goals.
+
+Qualifications
+
+1. Experience
+     - At least 2 years of experience working with AI/ML models, tools, and frameworks (e.g., TensorFlow, PyTorch, GPT-based models).
+2. Technical Skills
+     - Experience building, training, and deploying machine learning or deep learning models.
+     - Familiarity with cloud services (e.g., AWS, Google Cloud) for AI deployments.
+3. Soft Skills
+     - Strong communication skills to collaborate with non-technical stakeholders.
+     - Ability to explain complex AI concepts to diverse teams.
+     - Problem-solving mindset, capable of working autonomously and driving projects end-to-end.
+4. Nice-to-Have
+     - Experience in e-commerce or digital marketing.
+     - Familiarity with prompt engineering for large language models (e.g., GPT-4).","yesterday",0,"Intermediate","Est. Time:",0,"['Machine Learning', 'Artificial Intelligence', 'Python', 'Adobe Illustrator', 'Data Science']",28.0
+5.0,4000.0,"France","Payment verified","https://www.upwork.com/jobs/Agent-Developer-Needed_~021886867871748611811/?referrer_url_path=find_work_home","AI Agent Developer Needed","We are seeking an experienced AI Agent Developer to work on an exciting new project. The ideal candidate will have a strong background in AI development, focusing on creating intelligent agents that can interact and perform tasks autonomously. You will collaborate with our team to design, implement, and optimize AI solutions. If you are passionate about artificial intelligence and have a knack for problem-solving, we want to hear from you!
+
+What you'll be doing:
+
+* Automate and Optimize Internal Workflows by deploying AI agents to assist with specific tasks
+* Develop AI-Powered Data Insights Tools that analyze key performance.
+* Enhance Communication & Collaboration Efficiency by integrating AI assistants into Slack, email workflows, and project management tools.
+* Reduce Manual Workload for marketing, recruitment, and operations teams by building AI solutions that automate repetitive tasks like data entry, reporting, and lead qualification.
+* Ensure AI Systems Are Scalable and Reliable, continuously improving their accuracy, performance, and user experience.
+* Deliver AI Performance Reports on workflow improvements, automation success rates, and optimization opportunities.
+* Stay Ahead of AI & Marketing Trends, identifying emerging technologies that can enhance marketing strategies.
+
+Please submit your resume for consideration","yesterday",0,"Intermediate","Est. Time:",0,"['AI Agent Development', 'Artificial Intelligence', 'Python', 'Machine Learning', 'Price & Quote Negotiation', 'Zapier', 'Automated Workflow']",27.2
+5.0,2000.0,"USA","Payment verified","https://www.upwork.com/jobs/Dataiku-RapidMiner-KNIME-Expert-Needed-for-B2C-Algorithm-Implementation_~021887165283427392656/?referrer_url_path=find_work_home","Dataiku, RapidMiner, or KNIME Expert Needed for B2C Algorithm Implementation","We are seeking an experienced data analytics expert proficient in Dataiku, RapidMiner, or KNIME to assist in applying algorithms for our B2C company. The ideal candidate will help refine our models, implement data-driven solutions, and optimize our processes for better customer insights. If you have a strong background in data science and can translate complex data into actionable strategies, we want to hear from you!","yesterday",0,"Intermediate","Est. Time:",0,"['Python', 'Data Science', 'Machine Learning', 'Data Analysis', 'Data Mining']",26.93
+5.0,500.0,"SWE","Payment verified","https://www.upwork.com/jobs/Developer-for-SaaS-Candidate-Matching-Project_~021887119910247886138/?referrer_url_path=find_work_home","AI Developer for SaaS Candidate Matching Project","We are seeking an experienced programmer to join our team in developing an AI solution for our SaaS platform that identifies the best candidate matches for specific roles. The ideal candidate should have a strong background in AI and machine learning, as well as experience with SaaS projects. You'll work closely with our team to design and implement algorithms that enhance our recruitment process. If you are passionate about leveraging technology to improve hiring outcomes, we would love to hear from you!","yesterday",0,"Intermediate","Est. Budget:",0,"['Python', 'JavaScript', 'API', 'Artificial Intelligence', 'Node.js']",26.73
+5.0,500.0,"United States","Payment verified","https://www.upwork.com/jobs/Freelance-LLM-Technical-Interviewer_~021887183050168741015/?referrer_url_path=find_work_home","Freelance AI/LLM Technical Interviewer","I need a strong senior AI/ML/LLM scientist/engineer to interview the candidates for technical evaluation. The interview is about 30 minutes on Teams or Zoom. You would need to record the interview and provide an assessment. I can join some sessions to help you set up and introduce myself.
+
+The interview schedule will be in the Eastern Time Zone, Interviews can be between 1 pm and late evening depending on your availability and the candidate's availability.","yesterday",0,"Intermediate","Est. Time:",0,"['Python', 'LLM Prompt Engineering', 'English', 'Tech & IT', 'Candidate Interviewing', 'Artificial Intelligence', 'Machine Learning', 'Communication Skills']",26.73
+5.0,100.0,"USA","Payment verified","https://www.upwork.com/jobs/and-Development-for-Digital-Health-Startup_~021887139507399843555/?referrer_url_path=find_work_home","AI and ML Development for Digital Health Startup","We are a digital health startup looking for an experienced AI and Machine Learning developer to help us enhance our platform. The ideal candidate will have a strong background in developing innovative AI solutions tailored to the healthcare industry. You will be responsible for designing, implementing, and optimizing machine learning models that drive our product's functionalities. If you have a passion for improving health outcomes through technology, we want to hear from you!","yesterday",0,"Intermediate","Est. Time:",0,"['Python', 'Artificial Intelligence', 'Machine Learning', 'Data Science', 'TensorFlow']",26.68
+4.8,1000.0,"United States","Payment verified","https://www.upwork.com/jobs/Data-Science-RAG-Bot-Development-Consultant-for-Marketing-Analytics-Agency_~021886875992855964986/?referrer_url_path=find_work_home","Data Science & RAG Bot Development Consultant for Marketing Analytics Agency","I'll help you create a compelling Upwork job posting that will attract qualified candidates with the right expertise.
+
+# Data Science & RAG Bot Development Consultant for Marketing Analytics Agency
+
+## Project Overview
+We're a marketing agency seeking an experienced data scientist/consultant with expertise in Flowise RAG (Retrieval-Augmented Generation) bot development. The ideal candidate will help us structure and optimize our data for both Flowise implementations and machine learning projects.
+
+## Required Skills & Experience
+- 3+ years of experience in data science and machine learning
+- Proven experience with RAG (Retrieval-Augmented Generation) systems and LLM implementations
+- Strong background in Flowise development and customization
+- Expertise in data structuring and preprocessing for ML applications
+- Experience with marketing analytics and data-driven insights
+- Strong Python programming skills
+- Experience with vector databases (e.g., Pinecone, Weaviate, or similar)
+
+## Preferred Qualifications
+- Experience with n8n workflow automation
+- Background in marketing technology and analytics
+- Knowledge of popular marketing data sources and APIs
+- Experience with data visualization tools
+- Familiarity with embedding models (e.g., OpenAI, Cohere, or similar)
+
+## Project Scope
+- Audit and optimize our current data structure for RAG applications
+- Develop and implement custom RAG bots using Flowise
+- Create efficient data pipelines for marketing analytics
+- Set up automated workflows for data processing and analysis
+- Provide documentation and knowledge transfer
+- Train team members on best practices
+
+## Deliverables
+1. Data structure optimization plan
+2. Custom RAG bot implementation
+3. Documentation of workflows and processes
+4. Best practices guide for ongoing maintenance
+
+## Project Duration
+Possibility for ongoing collaboration based on performance
+
+## Required Information from Candidates
+Please include in your proposal:
+- Examples of previous RAG bot implementations
+- Experience with marketing analytics projects
+- Relevant certifications or training
+- Your approach to structuring data for ML projects
+- Availability and preferred working hours
+- Questions about our current setup and needs
+
+## Note
+We're looking for a proactive consultant who can not only implement solutions but also provide strategic guidance on best practices for data science in marketing analytics. Strong communication skills and the ability to explain technical concepts to non-technical team members are essential.","yesterday",0,"Intermediate","Est. Time:",0,"['Data Analysis Consultation', 'LangChain']",26.2
+0.0,400.0,"FRA","Payment verified","https://www.upwork.com/jobs/Chatbot-Expert_~021886869368439839265/?referrer_url_path=find_work_home","Chatbot Expert","We are a SaaS company seeking a highly skilled and experienced consultant to guide us in implementing a Chatbot solution powered by Retrieval-Augmented Generation (RAG) for production use. Our goal is to develop a Chatbot that allows clients to ask questions in natural language and receive accurate, context-aware responses based on their proprietary data.
+
+Key Requirements:
+- Multi-Tenancy & Customer Isolation: The solution must support multi-tenancy, ensuring complete data isolation between different clients.
+- Multi-Agent Architecture: The system should integrate multiple agents, with the primary agent serving as the source of truth (e.g., databases, vector stores) and secondary agents pulling data from additional sources such as APIs.
+- Scalability & Production Readiness: The architecture must be robust, scalable, and optimized for real-world production environments.
+
+What We’re Looking For:
+- An expert with deep knowledge of Chatbot development, RAG frameworks, and natural language processing (NLP).
+- Proven experience in designing and implementing multi-tenant, multi-agent systems.
+- Familiarity with both SaaS and open-premise solutions, as we are open to either approach.
+- Strong understanding of data security, scalability, and performance optimization for production-grade systems.","yesterday",0,"Expert","Est. Time:",0,"['Vector Embedding', 'Chatbot Development', 'RAG', 'LangChain', 'Natural Language Processing']",0.0
